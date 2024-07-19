@@ -1,8 +1,12 @@
 ---
-title: "About Me"
-date: 2024-07-19
+title: "🙋‍♂️ About Me"
+date: 2024-03-28T15:00:00+00:00
 draft: false
+layout: "terms"
+description: "About - {{ .Site.Title }}"
+url: "/about.html"
 ---
+
 
 # Hi there! I'm Alex, a Software Engineer at Northeastern University 👋
 

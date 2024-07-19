@@ -48,12 +48,7 @@ This guide will walk you through the process of setting up a Hugo site and deplo
    theme = 'hugo-coder'
    ```
 
-5. Create a new content file:
-   ```
-   hugo new content/about.md
-   ```
-
-6. Start the Hugo server with drafts enabled:
+5. Start the Hugo server with drafts enabled:
    ```
    hugo server --buildDrafts
    ```
