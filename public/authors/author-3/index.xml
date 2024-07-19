@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author 3 on My Website</title>
+    <link>http://localhost:1313/authors/author-3/</link>
+    <description>Recent content in Author 3 on My Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 19:01:48 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/author-3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Template</title>
+      <link>http://localhost:1313/blog/2024/04/01/markdown-template/</link>
+      <pubDate>Mon, 01 Apr 2024 19:01:48 +0530</pubDate>
+      <guid>http://localhost:1313/blog/2024/04/01/markdown-template/</guid>
+      <description>SVG Testing This is custom Styling Raw HTML This is raw HTML content Advertisement :)&#xA;pica - high quality and fast image resize in browser. babelfish - developer friendly i18n with plurals support and easy syntax. You will like those projects!&#xA;h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.&#xA;(c) (C) (r) (R) (tm) (TM) (p) (P) +-</description>
+    </item>
+  </channel>
+</rss>
